@@ -6,7 +6,7 @@ The juicy & tasty colorscheme. I'm mostly ignoring term support
 
 uh something like:
 ```
-Plug 'r0bre/maracuja.vim'
+Plug 'robre/maracuja.vim'
 ```
 i guess? (using plug obviously..)
 
